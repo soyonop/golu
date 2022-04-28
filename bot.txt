@@ -1,0 +1,3 @@
+"ip":"soyonhossain.aternos.me",
+"port":60716",
+"name"golusir"
